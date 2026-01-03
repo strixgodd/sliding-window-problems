@@ -26,3 +26,4 @@ public:
 
 //SORTED-> binary search hint
 //bin search to find the left edge of the window
+// an alternative way to solve this is to find the right edge of the window in similar manner
